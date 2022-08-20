@@ -1,5 +1,5 @@
 ### I’m Ogunyemi Sheriff Olamilekan 
-- 👀 I’m interested in Coding
+- 👀 I'm now a ALX Student, this is my first repository as a full-stack engineer
 - 🌱 I’m currently learning Programming 
 - 📫 How to reach me **ogunyemisheriff31@gmail.com**
 
