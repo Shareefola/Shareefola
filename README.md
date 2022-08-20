@@ -1,8 +1,8 @@
-### I’m @Shareefola
+### I’m Ogunyemi Sheriff Olamilekan 
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Programming 
 - 📫 How to reach me **ogunyemisheriff31@gmail.com**
-- 
+
 
 <!---
 Shareefola/Shareefola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
